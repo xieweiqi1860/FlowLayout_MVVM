@@ -1,4 +1,5 @@
-[![Android Gems](http://www.android-gems.com/badge/hongyangAndroid/FlowLayout.svg?branch=master)](http://www.android-gems.com/lib/hongyangAndroid/FlowLayout)
+# 写在前面
+  本项目Fork自[鸿洋大大](https://github.com/hongyangAndroid)的[FlowLayout](http://www.android-gems.com/lib/hongyangAndroid/FlowLayout)
 
 # FlowLayout
 Android流式布局，支持单选、多选等，适合用于产品标签等。
